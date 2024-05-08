@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for viewing my professional portfolio!
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Nipurn Nagar CV
+Template URL: https://ganon2218.github.io/nipurn_n.github.io/
+Author: Nipurn Nagar
+License: Open Source General Purpose
